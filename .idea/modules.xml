@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AccessingRelationalDatausingJDBCwithSpring/AccessingRelationalDatausingJDBCwithSpring.iml" filepath="$PROJECT_DIR$/AccessingRelationalDatausingJDBCwithSpring/AccessingRelationalDatausingJDBCwithSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuthenticatingaUserwithLDAP/AuthenticatingaUserwithLDAP.iml" filepath="$PROJECT_DIR$/AuthenticatingaUserwithLDAP/AuthenticatingaUserwithLDAP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConsumingaRESTfulWebService/ConsumingaRESTfulWebService.iml" filepath="$PROJECT_DIR$/ConsumingaRESTfulWebService/ConsumingaRESTfulWebService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SchedulingTasks/SchedulingTasks.iml" filepath="$PROJECT_DIR$/SchedulingTasks/SchedulingTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TrainingSpring.iml" filepath="$PROJECT_DIR$/.idea/TrainingSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UploadingFiles/UploadingFiles.iml" filepath="$PROJECT_DIR$/UploadingFiles/UploadingFiles.iml" />
+    </modules>
+  </component>
+</project>
