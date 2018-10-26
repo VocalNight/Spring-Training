@@ -14,7 +14,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="AccessingRelationalDatausingJDBCwithSpring" target="1.5" />
+      <module name="AccessingRelationalDatausingJDBCwithSpring" target="1.8" />
       <module name="AuthenticatingaUserwithLDAP" target="1.5" />
       <module name="ConsumingaRESTfulWebService" target="1.8" />
       <module name="SchedulingTasks" target="1.8" />
