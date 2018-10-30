@@ -18,7 +18,7 @@
       <module name="AuthenticatingaUserwithLDAP" target="1.5" />
       <module name="ConsumingaRESTfulWebService" target="1.8" />
       <module name="SchedulingTasks" target="1.8" />
-      <module name="UploadingFiles" target="1.5" />
+      <module name="UploadingFiles" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
